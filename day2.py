@@ -18,6 +18,7 @@ return sum
 Part 2
 
 collect minimums in another dictionary that initializes the same as in Part 1
+draw the rest of the flipping owl
 '''
 
 import sys
